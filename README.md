@@ -1,6 +1,7 @@
 # system_design
 
 Caching 
+
 https://stackoverflow.com/questions/5400163/when-to-redis-when-to-mongodb
 https://www.infoworld.com/article/3063161/nosql/why-redis-beats-memcached-for-caching.html
 https://redis.io/topics/cluster-tutorial
@@ -8,6 +9,7 @@ https://redis.io/topics/partitioning
 
 
 Continous Build
+
 https://dzone.com/articles/scalable-continuous-delivery-pipelines
 https://arxiv.org/ftp/arxiv/papers/1703/1703.07019.pdf
 https://www.thoughtworks.com/insights/blog/architecting-continuous-delivery
