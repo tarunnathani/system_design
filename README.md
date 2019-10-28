@@ -7,6 +7,7 @@
 * https://dzone.com/articles/pull-dont-push-monitoring-and-config-architectures
 * https://developer.lightbend.com/guides/monitoring-at-scale/monitoring-architecture/architecture.html
 * https://www.youtube.com/watch?v=QgJbxCWRZ1s
+* https://medium.com/netflix-techblog/lessons-from-building-observability-tools-at-netflix-7cfafed6ab17
 
 
 
