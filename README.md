@@ -1,4 +1,4 @@
-# system_design
+# System Design
 
 **Metric Monitoring System**
 * https://tianpan.co/hacking-the-software-engineer-interview#designing-a-metric-system
