@@ -9,6 +9,7 @@
 * https://www.youtube.com/watch?v=QgJbxCWRZ1s
 * https://medium.com/netflix-techblog/lessons-from-building-observability-tools-at-netflix-7cfafed6ab17
 * https://eng.uber.com/observability-at-scale/
+* https://eng.uber.com/on-call-dashboard/
 
 
 
