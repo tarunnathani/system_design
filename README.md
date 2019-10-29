@@ -43,6 +43,12 @@
  * https://www.youtube.com/watch?v=MDuagr729aU
  * https://massivetechinterview.blogspot.com/2015/12/distributed-locks.html
  * https://developpaper.com/talking-about-several-ways-of-using-distributed-locks-redis-zookeeper-database/
+ 
+ **Distributed Job Scheduler**
+ * https://medium.com/walmartlabs/an-approach-to-designing-distributed-fault-tolerant-horizontally-scalable-event-scheduler-278c9c380637
+ * https://bowenli86.github.io/2016/07/14/system%20design/task%20queue/System-Design-Design-Task-Scheduling-System-in-Distributed-System/
+  * https://medium.com/@kapil.sharma91812/how-to-design-job-scheduler-8a2ef858f32
+  * https://massivetechinterview.blogspot.com/2018/03/design-delayed-job-scheduler.html
 
 
 
