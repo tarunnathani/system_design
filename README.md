@@ -37,6 +37,11 @@
 * https://www.youtube.com/watch?v=fgIgOU0yi0w
 * https://www.youtube.com/watch?v=J3DY3Te3A_A&t=567s
 
+**Distributed Locking**
+ * https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html
+ * https://www.youtube.com/watch?v=v7x75aN9liM
+ * https://www.youtube.com/watch?v=MDuagr729aU
+ * https://massivetechinterview.blogspot.com/2015/12/distributed-locks.html
 
 
 
