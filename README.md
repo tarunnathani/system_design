@@ -10,6 +10,7 @@
 * https://medium.com/netflix-techblog/lessons-from-building-observability-tools-at-netflix-7cfafed6ab17
 * https://eng.uber.com/observability-at-scale/
 * https://eng.uber.com/on-call-dashboard/
+* https://www.youtube.com/watch?v=UEJ6xq4frEw&t=145s
 
 
 **Payment System**
@@ -49,6 +50,7 @@
  * https://bowenli86.github.io/2016/07/14/system%20design/task%20queue/System-Design-Design-Task-Scheduling-System-in-Distributed-System/
   * https://medium.com/@kapil.sharma91812/how-to-design-job-scheduler-8a2ef858f32
   * https://massivetechinterview.blogspot.com/2018/03/design-delayed-job-scheduler.html
+  * https://www.youtube.com/watch?v=s3GfXTnzG_Y
 
 
 
