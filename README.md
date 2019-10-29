@@ -42,6 +42,7 @@
  * https://www.youtube.com/watch?v=v7x75aN9liM
  * https://www.youtube.com/watch?v=MDuagr729aU
  * https://massivetechinterview.blogspot.com/2015/12/distributed-locks.html
+ * https://developpaper.com/talking-about-several-ways-of-using-distributed-locks-redis-zookeeper-database/
 
 
 
