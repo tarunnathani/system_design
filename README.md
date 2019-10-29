@@ -37,6 +37,7 @@
 * http://highscalability.com/blog/2015/9/14/how-uber-scales-their-real-time-market-platform.html
 * https://www.youtube.com/watch?v=fgIgOU0yi0w
 * https://www.youtube.com/watch?v=J3DY3Te3A_A&t=567s
+* https://www.infoq.com/news/2015/03/uber-realtime-market-platform/
 
 **Distributed Locking**
  * https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html
