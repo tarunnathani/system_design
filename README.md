@@ -22,3 +22,16 @@
 * https://www.grahamlea.com/2016/08/distributed-transactions-microservices-icebergs/
 * https://eng.uber.com/payments-platform/
 
+
+
+**Uber**
+*https://tianpan.co/hacking-the-software-engineer-interview#designing-uber-or-a-realtime-marketplace
+*https://medium.com/@narengowda/uber-system-design-8b2bc95e2cfe
+*https://www.linkedin.com/pulse/uber-system-design-demysified-rajesh-s
+*https://leetcode.com/discuss/interview-question/object-oriented-design/124542/design-uber-backend
+*https://architect.dennyzhang.com/design-uber/
+*https://www.youtube.com/watch?v=J3DY3Te3A_A
+*https://massivetechinterview.blogspot.com/2015/09/the-uber-software-architecture.html
+
+
+
