@@ -32,6 +32,7 @@
 *https://architect.dennyzhang.com/design-uber/
 *https://www.youtube.com/watch?v=J3DY3Te3A_A
 *https://massivetechinterview.blogspot.com/2015/09/the-uber-software-architecture.html
+*https://www.educative.io/courses/grokking-the-system-design-interview/YQVkjp548NM
 
 
 
