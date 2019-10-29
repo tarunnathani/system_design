@@ -19,4 +19,6 @@
 * https://brandur.org/http-transactions
 * https://blog.pragmaticengineer.com/distributed-architecture-concepts-i-have-learned-while-building-payments-systems/
 * https://eng.uber.com/reliable-reprocessing/
+* https://www.grahamlea.com/2016/08/distributed-transactions-microservices-icebergs/
+* https://eng.uber.com/payments-platform/
 
