@@ -35,6 +35,7 @@
 * https://www.educative.io/courses/grokking-the-system-design-interview/YQVkjp548NM
 * http://highscalability.com/blog/2015/9/14/how-uber-scales-their-real-time-market-platform.html
 * https://www.youtube.com/watch?v=fgIgOU0yi0w
+* https://www.youtube.com/watch?v=J3DY3Te3A_A&t=567s
 
 
 
