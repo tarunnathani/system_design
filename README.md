@@ -14,4 +14,9 @@
 
 **Payment System**
 
+* https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb
+* https://brandur.org/idempotency-keys
+* https://brandur.org/http-transactions
+* https://blog.pragmaticengineer.com/distributed-architecture-concepts-i-have-learned-while-building-payments-systems/
+* https://eng.uber.com/reliable-reprocessing/
 
