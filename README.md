@@ -52,6 +52,8 @@
   * https://medium.com/@kapil.sharma91812/how-to-design-job-scheduler-8a2ef858f32
   * https://massivetechinterview.blogspot.com/2018/03/design-delayed-job-scheduler.html
   * https://www.youtube.com/watch?v=s3GfXTnzG_Y
+  * https://eng.uber.com/cherami/
+  
 
 
 
