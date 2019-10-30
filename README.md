@@ -38,6 +38,7 @@
 * https://www.youtube.com/watch?v=fgIgOU0yi0w
 * https://www.youtube.com/watch?v=J3DY3Te3A_A&t=567s
 * https://www.infoq.com/news/2015/03/uber-realtime-market-platform/
+* https://www.youtube.com/watch?v=cSFWlF96Sds
 
 **Distributed Locking**
  * https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html
