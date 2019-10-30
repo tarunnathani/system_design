@@ -62,6 +62,7 @@
     * https://blog.pragmatists.com/retrying-consumer-architecture-in-the-apache-kafka-939ac4cb851a
     * https://www.confluent.io/blog/kafka-connect-deep-dive-error-handling-dead-letter-queues
     * https://medium.com/naukri-engineering/retry-mechanism-and-delay-queues-in-apache-kafka-528a6524f722
+    * https://www.youtube.com/watch?v=K4cmLrrIUUY
   
 
 
