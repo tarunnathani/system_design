@@ -1,1 +1,23 @@
 
+Design considerations: high writable (business needs), replication (fault tolerance), conflict resolution is determined by the client, symmetry and decentralization (convenient maintenance), Heterogeneity (different work load for different capabilities of the server).
+
+Partitioning:
+1. Consistent Hash
+2. Virtual nodes for each server, here I don't see the implementation of Heterogeneity in the paper, I don't know if it is missing. However, it can be imagined that it is implemented by a more powerful server assigning more virtual nodes.
+3. Each key range replicates to N virtual nodes.
+4. For the entire key range, first divide the bucket, then perform consistent hashing on the bucket range, in order to facilitate the update of the merkle tree (more on this later).
+
+Highly writeable:
+1. Quorum mechanism: W + R > N guarantees consistency, writes on any replica, records version with vector lock, reconsiliation when reading data; N is more afraid of data center failure, W is smaller and can be written The smaller R is, the more readable it is, as long as W+R>N is strong and consistent.
+2. Sloppy Quorum and hinted handoff: For transient failure, the write operation will write the number of Ws on the other nodes. These nodes will record who they are helping to write. Once the node of the previous failure is found, the node will be written back. Decentralization
+
+:
+1. Gossip protocol, able to propagate partition information, node state, merkle tree.
+2. Merkle Tree, each node, establishes a merkle tree for each key range stored by itself, and compares the hash value of a range with another replica to determine whether sync is needed, without having to propagate and compare all values.
+3. The characteristics of Merkle Tree make us need Partition 3 operation: first divide the key range into buckets. Otherwise, once a new node is added, we need to scan the data and recalculate the hash, because the data partitioning and the key range partitioning of the merkle tree are inconsistent. And if we keep them consistent by sub-bucket, we just need to transfer a part of the subtree of the merkle tree to another node, and recalculate the hash of the upward root node. Reusable
+
+knowledge points:
+1. Consistent Hash - virtual nodes - bucketed key range
+2. Quorum - Customizable WRN for different needs
+3. Comparison of data by Merkle Tree
+4. Decentralized maintenance of node shape by gossip protocol
