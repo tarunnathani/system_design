@@ -12,3 +12,6 @@
 
 
 **CASSANDRA Architechure**
+* https://dzone.com/articles/introduction-apache-cassandras
+* https://blog.yugabyte.com/apache-cassandra-architecture-how-it-works-lightweight-transactions/
+* https://medium.com/jorgeacetozi/cassandra-architecture-and-write-path-anatomy-51e339bcfe0c
