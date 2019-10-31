@@ -1,2 +1,3 @@
 
-*https://eng.lyft.com/matchmaking-in-lyft-line-9c2635fe62c4
+**CASSANDRA vs DYNAMODB**
+*https://www.beyondthelines.net/databases/dynamodb-vs-cassandra/
