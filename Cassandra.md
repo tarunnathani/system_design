@@ -20,3 +20,7 @@
  
  **CRDT Datatypes**
  * https://www.infoworld.com/article/3305321/when-to-use-a-crdt-based-database.html
+ 
+ **CONFLICT Resolution**
+ * https://dzone.com/articles/conflict-resolution-using-last-write-wins-vs-crdts
+ * https://www.datastax.com/blog/2013/09/why-cassandra-doesnt-need-vector-clocks
