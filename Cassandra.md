@@ -1,6 +1,7 @@
 
 **CASSANDRA vs DYNAMODB**
 * https://www.beyondthelines.net/databases/dynamodb-vs-cassandra/
+* https://sujithjay.com/data-systems/dynamo-cassandra/
 
 
 **WHITE PAPER**
