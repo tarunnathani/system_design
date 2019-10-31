@@ -15,3 +15,6 @@
 * https://dzone.com/articles/introduction-apache-cassandras
 * https://blog.yugabyte.com/apache-cassandra-architecture-how-it-works-lightweight-transactions/
 * https://medium.com/jorgeacetozi/cassandra-architecture-and-write-path-anatomy-51e339bcfe0c
+
+**GOSSIP PROTOOCAL**
+ * https://www.linkedin.com/pulse/gossip-protocol-inside-apache-cassandra-soham-saha/
