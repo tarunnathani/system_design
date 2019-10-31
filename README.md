@@ -43,6 +43,9 @@
 * https://www.youtube.com/watch?v=cSFWlF96Sds
 * https://www.confluent.io/kafka-summit-sf18/reliable-message-delivery-with-apache-kafka
 * https://eng.lyft.com/how-lyft-creates-hyper-accurate-maps-from-open-source-maps-and-real-time-data-8dcf9abdd46a
+* https://eng.lyft.com/matchmaking-in-lyft-line-9c2635fe62c4
+* https://eng.lyft.com/matchmaking-in-lyft-line-691a1a32a008
+* https://eng.lyft.com/matchmaking-in-lyft-line-part-3-d8f9497c0e51
 
 **Distributed Locking**
  * https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html
