@@ -68,6 +68,9 @@
     * https://www.confluent.io/blog/kafka-connect-deep-dive-error-handling-dead-letter-queues
     * https://medium.com/naukri-engineering/retry-mechanism-and-delay-queues-in-apache-kafka-528a6524f722
     * https://www.youtube.com/watch?v=K4cmLrrIUUY
+    
+   **Design Real Time Analytics platform**
+   * https://eng.uber.com/uber-big-data-platform/
   
 
 
