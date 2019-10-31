@@ -18,3 +18,4 @@
 
 **GOSSIP PROTOOCAL**
  * https://www.linkedin.com/pulse/gossip-protocol-inside-apache-cassandra-soham-saha/
+ * https://medium.com/@swarnimsinghal/implementing-cassandras-gossip-protocol-part-1-b9fd161e5f49
