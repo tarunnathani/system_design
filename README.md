@@ -42,6 +42,7 @@
 * https://www.infoq.com/news/2015/03/uber-realtime-market-platform/
 * https://www.youtube.com/watch?v=cSFWlF96Sds
 * https://www.confluent.io/kafka-summit-sf18/reliable-message-delivery-with-apache-kafka
+* https://eng.lyft.com/how-lyft-creates-hyper-accurate-maps-from-open-source-maps-and-real-time-data-8dcf9abdd46a
 
 **Distributed Locking**
  * https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html
