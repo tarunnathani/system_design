@@ -46,6 +46,7 @@
 * https://eng.lyft.com/matchmaking-in-lyft-line-9c2635fe62c4
 * https://eng.lyft.com/matchmaking-in-lyft-line-691a1a32a008
 * https://eng.lyft.com/matchmaking-in-lyft-line-part-3-d8f9497c0e51
+* https://eng.uber.com/intro-to-ringpop/
 
 **Distributed Locking**
  * https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html
