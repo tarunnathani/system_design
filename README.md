@@ -56,6 +56,7 @@
  * https://www.youtube.com/watch?v=MDuagr729aU
  * https://massivetechinterview.blogspot.com/2015/12/distributed-locks.html
  * https://developpaper.com/talking-about-several-ways-of-using-distributed-locks-redis-zookeeper-database/
+ * https://medium.com/coinmonks/chubby-a-centralized-lock-service-for-distributed-applications-390571273052
  
  **Distributed Job Scheduler**
  * https://medium.com/walmartlabs/an-approach-to-designing-distributed-fault-tolerant-horizontally-scalable-event-scheduler-278c9c380637
