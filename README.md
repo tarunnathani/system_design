@@ -13,6 +13,7 @@
 * https://www.youtube.com/watch?v=UEJ6xq4frEw&t=145s
 * https://dbaplus.cn/news-141-2038-1.html
 * https://blog.sflow.com/2012/08/push-vs-pull.html
+* https://giedrius.blog/2019/05/11/push-vs-pull-in-monitoring-systems/
 
 
 
