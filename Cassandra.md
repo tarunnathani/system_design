@@ -27,4 +27,6 @@
  
  **REDIS ARCHITECHURE**
  * http://oldblog.antirez.com/post/redis-persistence-demystified.html
+ * https://blog.houzz.com/migration-to-redis-cluster/
+ * https://medium.com/@pubuduboteju95/deep-dive-into-redis-clustering-1d71484578a9
  
