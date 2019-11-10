@@ -1,4 +1,7 @@
 
+**Distributed Sytem Reading List**
+ *https://highlyscalable.wordpress.com/2012/09/18/distributed-algorithms-in-nosql-databases/
+
 **CASSANDRA vs DYNAMODB**
 * https://www.beyondthelines.net/databases/dynamodb-vs-cassandra/
 * https://sujithjay.com/data-systems/dynamo-cassandra/
