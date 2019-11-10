@@ -24,3 +24,7 @@
  **CONFLICT Resolution**
  * https://dzone.com/articles/conflict-resolution-using-last-write-wins-vs-crdts
  * https://www.datastax.com/blog/2013/09/why-cassandra-doesnt-need-vector-clocks
+ 
+ **REDIS ARCHITECHURE**
+ * http://oldblog.antirez.com/post/redis-persistence-demystified.html
+ 
