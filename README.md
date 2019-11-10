@@ -1,5 +1,7 @@
 # System Design
 
+*http://chixu.me/interview/2018/02/19/System-Design
+
 **Metric Monitoring System**
 * https://tianpan.co/hacking-the-software-engineer-interview#designing-a-metric-system
 * https://www.digitalocean.com/community/tutorials/an-introduction-to-metrics-monitoring-and-alerting
