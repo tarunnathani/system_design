@@ -1,6 +1,7 @@
 # System Design
 
 *http://chixu.me/interview/2018/02/19/System-Design
+* https://speakerdeck.com/divinetraube/nosql-data-stores-in-research-and-practice-icde-2016-tutorial-extended-version?slide=148
 
 **Metric Monitoring System**
 * https://tianpan.co/hacking-the-software-engineer-interview#designing-a-metric-system
