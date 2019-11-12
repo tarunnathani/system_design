@@ -29,6 +29,7 @@
 * https://eng.uber.com/reliable-reprocessing/
 * https://www.grahamlea.com/2016/08/distributed-transactions-microservices-icebergs/
 * https://eng.uber.com/payments-platform/
+* https://blogs.dropbox.com/tech/2017/09/handling-system-failures-during-payment-communication/
 
 
 
