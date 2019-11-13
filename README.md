@@ -83,6 +83,7 @@
    
    **Design Dropbox**
    * https://www.prodevelopertutorial.com/system-design-tutorial-example-4-system-design-for-online-file-sharing-services/
+   * https://github.com/sjuvekar/System-Design-Case-Studies/blob/master/studies/dropbox.md
   
 
 
