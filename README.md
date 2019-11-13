@@ -81,8 +81,8 @@
    * https://eng.uber.com/uber-big-data-platform/
    * https://eng.uber.com/athenax/
    
-     **Design Dropbox**
-      * https://www.prodevelopertutorial.com/system-design-tutorial-example-4-system-design-for-online-file-sharing-services/
+   **Design Dropbox**
+   * https://www.prodevelopertutorial.com/system-design-tutorial-example-4-system-design-for-online-file-sharing-services/
   
 
 
